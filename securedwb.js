@@ -9,7 +9,7 @@
 // }
 
 function onmypass1() {
-    if (document.getElementById('mypassbutton1').value == 'bukansembarangberkas') {window.mypassbutton2.style.display="block"; }
+    if (document.getElementById('mypassbutton1').value == 'fortense-v1-240722') {window.mypassbutton2.style.display="block"; }
     else{ 
         alert('Akses ditolak, tanyakan password ke panitia / perwakilan !');
     }
